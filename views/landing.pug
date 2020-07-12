@@ -17,8 +17,8 @@ include partials/header.pug
             error = 'An error occurred. Please try again.'
 
 main#landing
+div(style='background-image:url(' + require("./my/image.png") + ')')
     div.container.m-auto
-        style="background-image: url('partials/image-asset.jpeg');
         section.card.text-left.p-0
             header
                 h1.text-4xl= siteTitle
