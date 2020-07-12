@@ -4,11 +4,11 @@ Download and install Docker https://hub.docker.com/editions/community/docker-ce-
 
 How to use,
 
-Powershell commands
+Powershell commands:
 
-Pull container:    docker pull frazzlesgrant/fakebank02
+    docker pull frazzlesgrant/fakebank02
 
-Run:     docker run -d -p "your IP Address":443:8080 frazzlesgrant/fakebank02
+    docker run -d -p "your IP Address":443:8080 frazzlesgrant/fakebank02
 
 Edit Host file on VM (C:/windows/system32/drivers/etc/hosts)
 
