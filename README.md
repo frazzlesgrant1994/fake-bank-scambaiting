@@ -12,8 +12,8 @@ Powershell commands:
 
 Edit Host file on VM (C:/windows/system32/drivers/etc/hosts)
 
-"your IP Address" njcreditunion.com 
-"your IP Address" www.njcreditunion.com/
+       "your IP Address" njcreditunion.com 
+       "your IP Address" www.njcreditunion.com/
 
 Download the server.cert from https://github.com/frazzlesgrant1994/fake-bank-scambaiting and install in the "Trusted Root Certification Authorities" this show the site as secure.
 
